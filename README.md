@@ -1,1 +1,1 @@
-# hyperion-terraform
+# linux scripts
